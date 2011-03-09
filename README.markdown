@@ -2,7 +2,7 @@
 
 ## Info
 
-This is a user extension for ExtJS 3, you can download ExtJS at [sencha.com](www.sencha.com/products/extjs/) 
+This is a User Extension for ExtJS 3, you can download ExtJS at [sencha.com](www.sencha.com/products/extjs/) 
 Ext.ux.grid.ButtonColumn is a user extension that implements Ext.Button components placed in a grid row and supplements
 the Ext.grid.ActionColumn. I've had several client cases that required an actual button in a grid cell instead of a clickable
 image or icon. From a usability standpoint this is a little more intuitive but be aware that this might have a serious impact
